@@ -1,0 +1,6 @@
+{
+  "name": "Guardian AI Core",
+  "description": "Sistema de apoyo preventivo, análisis de riesgo y orientación cognitiva para familiares y cuidadores de adultos mayores con pulsera de asistencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
